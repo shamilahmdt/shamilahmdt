@@ -79,10 +79,10 @@
 ---
 
 ## 🌐 Connect With Me
-- 📧 Email: shamilahmd12@gmail.com
-- 💼 LinkedIn: https://linkedin.com/in/shamil-ahammed-t 
-- 🌍 Portfolio: [https://shamilahmdt.github.io  ](https://shamilahmdt.github.io/My_Portfolio/)
-
+- 📧 Email: [shamilahmd12@gmail.com](mailto:shamilahmd12@gmail.com)
+- 💼 LinkedIn: [Shamil Ahammed T](https://linkedin.com/in/shamil-ahammed-t) 
+- 🌍 Portfolio: [Shamil Ahammed T](https://shamilahmdt.github.io/My_Portfolio/)
+- 💻 Github: [shamilahmdt](https://github.com/shamilahmdt)
 ---
 
 ## ⚡ Fun Fact
