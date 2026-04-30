@@ -63,8 +63,9 @@
 - Responsive and clean design  
 
 ---
-<!--
+
 ## 📊 GitHub Stats
+<!--
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark" />
 </p>
@@ -73,9 +74,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=github_dark" />
 </p>
-
-![Shamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
 -->
+![Shamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
 ---
 
 ## 🌐 Connect With Me
