@@ -93,5 +93,9 @@ I turn ideas into real-world web applications 🚀
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake-violet.gif" alt="Snake animation">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake-violet.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake-violet.gif">
+  </picture>
 </p>
