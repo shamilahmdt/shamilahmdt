@@ -10,6 +10,9 @@ concurrency:
   group: "snake"
   cancel-in-progress: true
 
+permissions:
+  contents: write
+
 jobs:
   generate:
     runs-on: ubuntu-latest
