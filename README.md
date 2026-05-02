@@ -62,8 +62,9 @@
 - Modern UI using Tailwind CSS  
 - Responsive and clean design  
 
----
+
 <!--
+---
 ## 📊 GitHub Stats
 
 <p align="center">
