@@ -93,5 +93,5 @@ I turn ideas into real-world web applications 🚀
 ## 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake.gif" alt="Snake animation">
+  <img src="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake-violet.gif" alt="Snake animation">
 </p>

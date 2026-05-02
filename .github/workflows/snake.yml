@@ -3,6 +3,9 @@ name: 🐍 Generate Snake Animation
 on:
   schedule:
     - cron: "0 0 * * *" # runs daily
+  push:
+    branches:
+      - main
   workflow_dispatch:
 
 # Prevent multiple runs overlapping
@@ -31,7 +34,7 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-violet.svg?color_snake=#a855f7&color_dots=#0f172a,#1e293b,#334155,#475569,#64748b
-            dist/github-snake.gif?color_snake=#a855f7&color_dots=#111827,#1f2937,#374151,#4b5563,#6b7280
+            dist/github-snake-violet.gif?color_snake=#a855f7&color_dots=#0f172a,#1e293b,#334155,#475569,#64748b
 
       - name: 🚀 Deploy to output branch
         uses: peaceiris/actions-gh-pages@v4
