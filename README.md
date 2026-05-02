@@ -94,8 +94,8 @@ I turn ideas into real-world web applications 🚀
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake-violet.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake-darkblue.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake-violet.gif">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/shamilahmdt/shamilahmdt/output/github-snake-darkblue.gif">
   </picture>
 </p>
