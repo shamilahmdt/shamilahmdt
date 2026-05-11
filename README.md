@@ -84,7 +84,7 @@
 ## 🌐 Connect With Me
 - 📧 Email: [shamilahmd12@gmail.com](mailto:shamilahmd12@gmail.com)
 - 💼 LinkedIn: [Shamil Ahammed T](https://linkedin.com/in/shamil-ahammed-t) 
-- 🌍 Portfolio: [Shamil Ahammed T](https://shamilahmdt.github.io/My_Portfolio/)
+- 🌍 Portfolio: [Shamil Ahammed T](https://shamil-ahammed-t.vercel.app/)
 - 💻 Github: [shamilahmdt](https://github.com/shamilahmdt)
 ---
 
