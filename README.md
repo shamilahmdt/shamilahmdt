@@ -74,6 +74,7 @@
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=github_dark" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=github_dark" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shamilahmdt&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="170" alt="Top Langs" />
 </p> 
 
 
@@ -92,7 +93,6 @@
 
 <p align="left">
 <img src="https://github-stats-extended.vercel.app/api?username=shamilahmdt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
-<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shamilahmdt&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="170" alt="Top Langs" />
 </p>
 
 ## 🐍 Contribution Snake
