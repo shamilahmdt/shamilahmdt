@@ -88,8 +88,12 @@
 - 💻 Github: [shamilahmdt](https://github.com/shamilahmdt)
 ---
 
-## ⚡ Fun Fact
-I turn ideas into real-world web applications 🚀
+### 📊 Stats
+
+<p align="left">
+<img src="https://github-stats-extended.vercel.app/api?username=shamilahmdt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shamilahmdt&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="170" alt="Top Langs" />
+</p>
 
 ## 🐍 Contribution Snake
 
