@@ -4,14 +4,6 @@
 🚀 Passionate about building scalable web applications  
 📍 Kerala, India  
 
-<a href="https://buymeachai.ezee.li/shamil_ahmd">
-  <img
-    src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png"
-    alt="Buy Me A Chai"
-    width="160"
-  />
-</a>
-
 ---
 
 ## 🧑‍💼 About Me
@@ -89,8 +81,18 @@
 
 ![Shamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamilahmdt&show_icons=true&theme=radical)
 -->
----
 
+## ☕ Support My Work
+
+<a href="https://buymeachai.ezee.li/shamil_ahmd">
+  <img
+    src="https://buymeachai.ezee.li/assets/images/buymeachai-button.png"
+    alt="Buy Me A Chai"
+    width="180"
+  />
+</a>
+
+---
 ## 🌐 Connect With Me
 - 📧 Email: [shamilahmd12@gmail.com](mailto:shamilahmd12@gmail.com)
 - 💼 LinkedIn: [Shamil Ahammed T](https://linkedin.com/in/shamil-ahammed-t) 
