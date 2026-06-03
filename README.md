@@ -4,6 +4,8 @@
 🚀 Passionate about building scalable web applications  
 📍 Kerala, India  
 
+[![Buy Me A Chai](https://buymeachai.ezee.li/assets/images/buymeachai-button.png)](https://buymeachai.ezee.li/shamil_ahmd)
+
 ---
 
 ## 🧑‍💼 About Me
