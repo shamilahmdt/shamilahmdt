@@ -106,6 +106,7 @@
 <img src="https://github-stats-extended.vercel.app/api?username=shamilahmdt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
 </p>
 
+![](https://komarev.com/ghpvc/?username=shamilahmdt&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 ## 🐍 Contribution Snake
 
 <p align="center">
