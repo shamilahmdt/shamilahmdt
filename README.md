@@ -78,7 +78,11 @@
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shamilahmdt&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="170" alt="Top Langs" />
 </p> 
 
+<p align="center">
+<img src="https://github-stats-extended.vercel.app/api?username=shamilahmdt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
+</p>
 
+![](https://komarev.com/ghpvc/?username=shamilahmdt&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 <!-- ![Shamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamilahmdt&show_icons=true&theme=radical) -->
 
 
@@ -100,13 +104,7 @@
 - 💻 Github: [shamilahmdt](https://github.com/shamilahmdt)
 ---
 
-### 📊 Stats
 
-<p align="left">
-<img src="https://github-stats-extended.vercel.app/api?username=shamilahmdt&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="170" alt="Stats" />
-</p>
-
-![](https://komarev.com/ghpvc/?username=shamilahmdt&label=PROFILE+VIEWS&color=0e75b6&style=flat)
 ## 🐍 Contribution Snake
 
 <p align="center">
