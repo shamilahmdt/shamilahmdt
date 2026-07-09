@@ -64,23 +64,23 @@
 - Responsive and clean design  
 
 
-<!--
+
 ---
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yourusername&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shamilahmdt&theme=github_dark" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yourusername&theme=github_dark" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yourusername&theme=github_dark" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shamilahmdt&theme=github_dark" />
+  <!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shamilahmdt&theme=github_dark" /> -->
   <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=shamilahmdt&layout=compact&theme=tokyonight&hide_border=true&hide=html,css,scss" height="170" alt="Top Langs" />
 </p> 
 
 
-![Shamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamilahmdt&show_icons=true&theme=radical)
--->
+<!-- ![Shamil's GitHub stats](https://github-readme-stats.vercel.app/api?username=shamilahmdt&show_icons=true&theme=radical) -->
+
 
 ## ☕ Support My Work
 
